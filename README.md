@@ -1,3 +1,10 @@
+# The Zoe Invariant and a Complete Recurrence Criterion for Hodge Classes
+
+[[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20087650.svg)](https://doi.org/10.5281/zenodo.20087650)
+
+**Preprint submitted to *Annals of Mathematics*, May 2026**
+
+This repository contains SageMath code and LaTeX source for Paper 3 of the Hodge trilogy. It demonstrates that the Zoe invariant eliminates all rank obstructions on 339 LMFDB CM abelian varieties.
 # hodge-zoe-invariant
 
 **Paper 3 of 3: The Zoe Invariant and Hodge Classes**
